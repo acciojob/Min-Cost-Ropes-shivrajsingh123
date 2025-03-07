@@ -1,5 +1,5 @@
-function mincost(arr)
-{ 
+
+
 function mincost(arr) {
     if (arr.length === 1) return 0;
     
@@ -21,6 +21,6 @@ function mincost(arr) {
 
 // return the min cost
   
-}
+
 
 module.exports=mincost;
